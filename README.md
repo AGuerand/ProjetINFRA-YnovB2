@@ -10,7 +10,7 @@ Install Apache2 https://www.digitalocean.com/community/tutorials/how-to-install-
 
 Install Wordpress : https://www.tecmint.com/install-wordpress-in-ubuntu-lamp-stack/
 
-Install Wekan : https://www.mikmer.fr/?p=340
+Install Wekkan : https://www.mikmer.fr/?p=340
 
 
 On Proxy:
